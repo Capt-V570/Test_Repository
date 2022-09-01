@@ -1,4 +1,4 @@
-# This is my Test_Repository to accomplish the task of Cloning Repository
+# This is my Task to accomplish for Cloning Repository Exercise
 
 Use only terminal commands for git (you can use VS Code for editing if you want!) :^)
 1. Create a public repo in the GitHub website, including a README
